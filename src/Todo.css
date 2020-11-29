@@ -1,0 +1,27 @@
+.todo_block {
+  text-align: center;
+  display: flex;
+  justify-items: center;
+}
+
+.todo_final {
+  width: 100%;
+
+  font-size: 50px;
+}
+
+.edit_btn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.delete_btn {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+.modal_box {
+  text-align: center;
+  width: fit-content;
+}
